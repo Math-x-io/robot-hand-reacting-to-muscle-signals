@@ -1,0 +1,3 @@
+If you don't have the library <Servo.h> download it here (download the latest version) : https://www.arduino.cc/reference/en/libraries/servo/
+
+After this add the library on Arduino : sketch -> include library -> add .ZIP library -> select the previously downloaded archive
