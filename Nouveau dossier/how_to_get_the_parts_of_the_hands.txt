@@ -1,0 +1,35 @@
+****FRENCH****
+
+Comment obtenir les pièces pour créer votre main mécanique ? 
+
+- Première solution et la plus simple acheter directement un modèle de main, il vous restera alors seulement les câblages avec l'Arduino à faire. 
+
+Achetez ici : 
+
+ https://www.gotronic.fr/art-main-droite-robotique-rob0143-27831.html  
+
+ shorturl.at/bdL12
+
+
+
+- La seconde solution est soit d'imprimé les fichiers 3d fournis avec une imprimante 3d (pour les matériaux n'importe lequel devrait être bon) 
+  ou utiliser une découpe laser sur un matériaux à surface plate (utiliser les fichiers PDF fournit). 
+
+
+
+
+****ENGLISH****
+
+How to get the parts to create your mechanical hand ? 
+
+- First and easiest solution is to buy directly a hand model, then you will only have to wire it with the Arduino. 
+
+Buy here : 
+
+- https://www.gotronic.fr/art-main-droite-robotique-rob0143-27831.html  
+
+ shorturl.at/bdL12
+
+ The second solution is to either print the 3d files provided with a 3d printer (for materials any one should be good) 
+ or use a laser cut on a flat surface material (use the PDF files provided). 
+
