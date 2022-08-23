@@ -1,0 +1,1 @@
+connect the potentiometer to the "A4 pin" of the arduino 

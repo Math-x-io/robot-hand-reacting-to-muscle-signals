@@ -1,0 +1,9 @@
+EMG sensors : https://www.ebay.fr/itm/295138095520?_ul=FR&var=0
+
+Motor shield extension for arduino : https://store.arduino.cc/collections/shields/products/arduino-motor-shield-rev3
+
+Arduino Card : https://store.arduino.cc/products/arduino-uno-rev3
+
+servo motors * 5 : https://urlzs.com/Kgbk8
+
+potentiometer : https://www.digikey.fr/fr/products/detail/bourns-inc./PTV09A-4225F-B103/3781155?utm_adgroup=Potentiometers%2C%20Variable%20Resistors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Bourns_0118_Co-op&utm_term=&productid=3781155&gclid=Cj0KCQjw0oyYBhDGARIsAMZEuMtXWtdlcQAC7bZ-jKY3a8QyeP33o0i5Xot3Yei-1I5yn-8QzYVEBi4aAnudEALw_wcB
