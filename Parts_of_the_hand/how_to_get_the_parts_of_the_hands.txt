@@ -12,7 +12,7 @@ Achetez ici :
 
 
 
-- La seconde solution est soit d'imprimé les fichiers 3d fournis avec une imprimante 3d (pour les matériaux n'importe lequel devrait être bon) 
+- La seconde solution est soit d'imprimer les fichiers 3d fournis avec une imprimante 3d (pour les matériaux n'importe lequel devrait être bon) 
   ou utiliser une découpe laser sur un matériaux à surface plate (utiliser les fichiers PDF fournit). 
 
 
